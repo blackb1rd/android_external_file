@@ -72,7 +72,7 @@
 #define ENABLE_CONDITIONALS
 
 #ifndef MAGIC
-#define MAGIC "/etc/magic"
+#define MAGIC "/system/etc/magic.mgc"
 #endif
 
 #if defined(__EMX__) || defined (WIN32)
